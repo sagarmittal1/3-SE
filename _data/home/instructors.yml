@@ -1,12 +1,12 @@
 instructor:
-- name: Alpha Beta
-  github: https://github.com/atharva-chandak #instrucor's github link
-  email: intructor@gmail.com 
+- name: Sunil Gupta
+#  github: https://github.com/atharva-chandak #instrucor's github link
+  email: sunil.gupta@gitjaipur.com
   img: assets/instructor.svg
-  consultation: 'Sat 6:30 - 7:30pm, 6116A'
+  consultation: 'Sat 6:30 - 3:00pm, Online'
 
-- name: Gamma Delta
-  github: https://github.com/atharva-chandak 
-  email: intructor@gmail.com 
-  img: assets/instructor.svg
-  consultation: 'Mon 6:30 - 7:30pm, 6116B'
+# - name: Gamma Delta
+#  github: https://github.com/atharva-chandak 
+#  email: intructor@gmail.com 
+#  img: assets/instructor.svg
+#  consultation: 'Mon 6:30 - 7:30pm, 6116B'

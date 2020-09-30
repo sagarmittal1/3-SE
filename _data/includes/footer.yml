@@ -11,14 +11,6 @@ footer_content:
     - subtab: "FAQs"
       sub_link: "/#FAQs"   
 
-  - tabname: "Schedule"
-    link: "schedule" 
-    subtopic:
-    - subtab: "Schedule"
-      sub_link: "schedule#Schedule"
-    - subtab: "Class and Time"
-      sub_link: "schedule#Class Time & Location"
-
   - tabname: "Syllabus"
     link: "syllabus"
     subtopic:
@@ -37,9 +29,9 @@ footer_content:
     subtopic:
     - subtab: "Assignments"
       sub_link: "resources#Assignments"  
-    - subtab: "Lecture Slides"
-      sub_link: "resources#Lecture Slides"  
-    - subtab: "Online Resources"
-      sub_link: "resources#Online Resources"  
-    - subtab: "Misc Links"
-      sub_link: "resources#Misc Links" 
+    - subtab: "Lecture Slides & Notes"
+      sub_link: "resources#Lecture Slides" 
+    - subtab: "Lab Manuals"
+      sub_link: "resources#Lab Manuals" 
+    - subtab: "Standard Books"
+      sub_link: "resources#Standard Books"  
