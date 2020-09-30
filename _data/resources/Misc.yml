@@ -1,5 +1,7 @@
 misc:
-  - topic: Link 1
-    link: http://example.com/res1/path
-  - topic: Link 2
-    link: http://example.com/res2/path  
+  - topic: Fundamental of Software Engineering - By Rajib Mall
+    link: ../assets/books/Fundamental of Software Engineering.pdf
+  - topic: Software Engineering MCGraW-Hill - By Roger S. Pressman
+    link: ../assets/books/Software Engineering MCGraW-Hill.pdf
+  - topic: Software Engineering - Principles and Practice Wiley 2007 - By Hans van Vliet 
+    link: ../assets/books/Software Engineering - Principles and Practice Wiley 2007.pdf
