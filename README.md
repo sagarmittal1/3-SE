@@ -1,7 +1,6 @@
-# Orca
+# Software Engineering
 A jekyll template for easy creation of course websites. No need to code the messy HTML pages. Just make a few changes in user-friendly syntax, and you'll be good to go!
-<br><br>
-![alt text](assets/orca.jpg)
+<br>
 
 ## Why should I use it?
 * Simple, elegant and minimalistic design, perfect for your course website.
@@ -9,9 +8,7 @@ A jekyll template for easy creation of course websites. No need to code the mess
 * Highly flexible and responsive.
 * You can host your site for free on GitHub Pages.
 
-## Template used in:
-Checkout:
-* [pipaf website][pipaf]
+
 
 ## Quick Setup
 For a guide to install Jekyll and build locally, refer [here][jekyll_doc]. Note that this is an optional step, required only if you want to locally build the website. You can actually build and host the website directly on GitHub pages.

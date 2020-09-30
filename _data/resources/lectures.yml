@@ -1,33 +1,61 @@
 lecture:
-  - lec: 'Lecture 1: Topic Name1' #edit Topic Name
-    resources:
-      - resource:
-          type: 'Slides'
-          link: '../assets/slides/orca.pptx'
-      - resource:
-          type: 'Notes'
-          link: '../assets/notes/orca.pdf'
-      - resource:
-          type: 'Extra Reading'
-          link: '#'
-  - lec: 'Lecture 2: Topic Name2'
+  - lec: 'Unit 0: Warm Up' #edit Topic Name
     resources:
       - resource:
           type: 'Notes'
-          link: '../assets/notes/orca.pdf'
-  - lec: 'Lecture 3: Topic Name3'
+          link: '../assets/notes/Unit 0 Warm Up.pdf'
+  - lec: 'Unit 1: Introduction'
     resources:
       - resource:
-          type: 'Extra Reading'
-          link: '#'
+          type: 'Slide 1'
+          link: '../assets/slides/SE Unit 1 Lecture 1.pptx'
       - resource:
-          type: 'Video Lecture'
-          link: '#'
-  - lec: 'Lecture 4: Topic Name4'
+          type: 'Slide 2'
+          link: '../assets/slides/SE Unit 1 Lecture 2.pptx'
+      - resource:
+          type: 'Slide 3'
+          link: '../assets/slides/SE Unit 1 Lecture 3.pptx'
+      - resource:
+          type: 'Slide 4'
+          link: '../assets/slides/SE Unit 1 Lecture 4.pptx'
+      - resource:
+          type: 'Slide 5'
+          link: '../assets/slides/SE Unit 1 Lecture 5.pptx'
+      - resource:
+          type: 'Note 1'
+          link: '../assets/notes/SE Unit 1.pdf'
+      - resource:
+          type: 'Note 2'
+          link: '../assets/notes/SE Unit 1 Revision.pdf'
+  - lec: 'Unit 2: Software Project Management' 
     resources:
       - resource:
-          type: 'Video Lecture'
-          link: '#'
+          type: 'Slide'
+          link: '../assets/slides/SE Unit 2 Lecture 1.pptx'
+      - resource:
+          type: 'Notes 1'
+          link: '../assets/notes/SE Unit 2.pdf'
+      - resource:
+          type: 'Note 2'
+          link: '../assets/notes/SE Unit 2.1 Revision.pdf'
+      - resource:
+          type: 'Note 3'
+          link: '../assets/notes/SE Unit 2.2 Revision.pdf'
+  - lec: 'Unit 3: Requirement Analysis'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: '../assets/notes/SE Unit 3.pdf'
+  - lec: 'Unit 4: Software Design'
+    resources:
+      - resource:
+          type: 'Notes'
+          link: '../assets/notes/SE Unit 4.pdf'
+  - lec: 'Unit 5: Object Oriented Analysis' 
+    resources:
+      - resource:
+          type: 'Notes'
+          link: '../assets/notes/SE Unit 5.pdf'
   
 # - lec: 'Lecture 5: Topic Name5'
 #   resources:
