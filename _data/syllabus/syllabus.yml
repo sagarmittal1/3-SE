@@ -1,27 +1,25 @@
 syllabus:
-  - heading: Technology
-    content: " {The Tech you will be using} <br>
-    Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  - heading: Unit 1
+    content: " <h3>Introduction: </h3>
+    Introduction, software life-cycle models, software requirements specification, formal requirements specification, verification and
+    validation."
 
-  - heading: Materials  
-    content: " {Recommended Materials} <br>
-      Massa ultricies mi quis hendrerit dolor. At tempor commodo ullamcorper a lacus vestibulum sed.
-      Arcu non sodales neque sodales ut etiam sit amet. Morbi quis commodo odio aenean. 
-      Enim nulla aliquet porttitor lacus luctus accumsan.     <br><br>
-     <h3>Homeworks</h3>
-     There will be regular homeworks after lectures. 
-     <br>    
-     <h3>Slides</h3>
-     We will post slides on the course website after each lecture.
-     <br>"
+  - heading: Unit 2  
+    content: " <h3>Software Project Management: </h3>
+    Objectives, Resources and their estimation, LOC and FP estimation, effort estimation, COCOMO 
+    estimation model, risk analysis, software project scheduling."
 
-  - heading: Late Policy  
-    content: "Porttitor leo a diam sollicitudin. Interdum varius sit amet mattis vulputate enim nulla.
-      Mattis vulputate enim nulla aliquet. Odio ut sem nulla pharetra diam sit amet. 
-      Suspendisse interdum consectetur libero id faucibus nisl."
+  - heading: Unit 3
+    content: " <h3>Requirement Analysis: </h3>
+    Requirement analysis tasks, Analysis principles. Software prototyping and specification data dictionary, 
+    Finite State Machine (FSM) models. Structured Analysis: Data and control flow diagrams, control and 
+    process specification behavioral modeling"
 
-  - heading: Grading Policy 
-    content: " <ul><li>Assignments: 50% </li>
-                <li>Final Exams: 50% (20% + 30%)</li></ul>
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+  - heading: Unit 4
+    content: " <h3>Software Design: </h3>
+    Design fundamentals, Effective modular design: Data architectural and procedural design, design documentation."
+
+  - heading: Unit 5
+    content: " <h3>Object Oriented Analysis: </h3>
+    Object oriented Analysis Modeling, Data modeling. Object Oriented Design: OOD concepts, Class and object
+     relationships, object modularization, Introduction to Unified Modeling Language"

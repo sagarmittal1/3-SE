@@ -1,5 +1,5 @@
 * {
-  font-family: 'Work Sans';
+  font-family: 'Georgia';
   text-align: justify;
 }
 
@@ -8,7 +8,7 @@
 }
 
 hr{
-  border-bottom: 1px solid  rgba(22, 20, 20, 0.74)  ;
+  border-bottom: 1px solid  rgba(10, 6, 241, 0.74)  ;
 }
 a{
   cursor:pointer;
@@ -102,7 +102,7 @@ ol{
 .page-head p {
   margin-bottom: 0; }
 .page-head .head-subtitle {
-  font-family: 'Work Sans';
+  font-family: 'Georgia';
   font-size: 1.2em; }
 .page-head .head-title {
   font-family: 'Raleway';
