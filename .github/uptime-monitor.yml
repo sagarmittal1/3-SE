@@ -1,0 +1,17 @@
+name: Uptime Monitor
+
+on:
+  schedule:
+    # Run every hour, You can choose your custom time
+    - cron: '*/60 *  * * *'
+
+jobs:
+  ping_site:
+    runs-on: ubuntu-latest
+    name: Uptime Check
+    steps:
+      - name: Ping Site
+        uses: srt32/uptime@v0.2
+        with:
+          url-to-hit: 'https://sagarmittal1.github.io/3-SE' # Website whose uptime you want to track
+          expected-statuses: '200'
