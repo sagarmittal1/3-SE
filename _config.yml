@@ -3,8 +3,8 @@ email: mittalsagar006@gmail.com
 description: > # short discription of your website. It is helpful for making your website more discoverable and appears while previewing your website.
     A course website for 3rd Sem. Software Eng. subject
  
-baseurl: ""   # specify the subpath of your site
-url: "" # the base hostname & protocol for YOUR site, e.g. http://example.com
+baseurl: "3-SE"   # specify the subpath of your site
+url: "https://sagarmittal1.github.io" # the base hostname & protocol for YOUR site, e.g. http://example.com
 twitter_username: sagar_mittal5
 github_username: sagarmittal1
 theme: minima
